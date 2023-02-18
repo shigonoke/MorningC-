@@ -5,10 +5,10 @@
 //     int units = num % 10;
 //     int result = hundreds * 10 + units;
 
-//     return result;   возвращает
+//     return result;   //возвращает
 // }
 
-// int randNumber = new Random().Next(100,1000);Принимает на вход 2 аргумента, нижний и верхний предел
+// int randNumber = new Random().Next(100,1000); //Принимает на вход 2 аргумента, нижний и верхний предел
 
 // int newNumber = CutNumber(randNumber);
 // Console.WriteLine($"New version of {randNumber} is {newNumber}");
