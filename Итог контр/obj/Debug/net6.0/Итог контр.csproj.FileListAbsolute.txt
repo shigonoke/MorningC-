@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\MorningC#\Итог контр\bin\Debug\net6.0\Итог контр.exe
+C:\Users\Denis\Desktop\MorningC#\Итог контр\bin\Debug\net6.0\Итог контр.deps.json
+C:\Users\Denis\Desktop\MorningC#\Итог контр\bin\Debug\net6.0\Итог контр.runtimeconfig.json
+C:\Users\Denis\Desktop\MorningC#\Итог контр\bin\Debug\net6.0\Итог контр.dll
+C:\Users\Denis\Desktop\MorningC#\Итог контр\bin\Debug\net6.0\Итог контр.pdb
+C:\Users\Denis\Desktop\MorningC#\Итог контр\obj\Debug\net6.0\Итог контр.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\MorningC#\Итог контр\obj\Debug\net6.0\Итог контр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\MorningC#\Итог контр\obj\Debug\net6.0\Итог контр.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\MorningC#\Итог контр\obj\Debug\net6.0\Итог контр.AssemblyInfo.cs
+C:\Users\Denis\Desktop\MorningC#\Итог контр\obj\Debug\net6.0\Итог контр.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\MorningC#\Итог контр\obj\Debug\net6.0\Итог контр.dll
+C:\Users\Denis\Desktop\MorningC#\Итог контр\obj\Debug\net6.0\refint\Итог контр.dll
+C:\Users\Denis\Desktop\MorningC#\Итог контр\obj\Debug\net6.0\Итог контр.pdb
+C:\Users\Denis\Desktop\MorningC#\Итог контр\obj\Debug\net6.0\Итог контр.genruntimeconfig.cache
+C:\Users\Denis\Desktop\MorningC#\Итог контр\obj\Debug\net6.0\ref\Итог контр.dll
